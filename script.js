@@ -1,6 +1,6 @@
 const jogos = [
   {
-    nome: "The Legend of Zelda",
+    nome: "Arena dos Deuses"
     imagem: "https://upload.wikimedia.org/wikipedia/en/6/6d/Legend_of_Zelda_Breath_of_the_Wild.jpg",
     descricao: "Aventura épica em mundo aberto."
   },
